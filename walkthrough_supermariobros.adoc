@@ -1,8 +1,97 @@
-= Walkthough - Super Mario Bros.
+= A Guide to Mastering Super Mario Bros.
 - Alex Konieczny
 :toc: auto
 
+== Introduction
+
+
+== Ways to play
+Super Mario Bros. is one of the most re-released video games of all time. Since there are countless ways to play the game, the decision about how to play come from balancing comfort, accessibility, and authenticity. The following are just a few of the methods you can choose from when playing Super Mario Bros.  
+
+=== Nintendo Entertainment System / Nintendo Family Computer
+Depending on where you live, Nintendo's first home console with interchangable games came in either the form of the Nintendo Family Computer (Famicom), if you lived in Japan, or the Nintendo Entertainment System (NES) if you lived in North America or Europe. Despite a few non-essential differences, the hardware in these systems is the same. The developers at Nintendo designed Super Mario Bros. to be played on these machines, and if you can manage to get an NES or Famicom, it can be the best way to play, though only in specific situations. Since this guide is written in English, the following instructions will specifically refer to using an NES, and the challenges that come with that version of the console.
+
+First, the NES is around 40-years-old. Though Nintendo sold many of these systems, if is becoming more difficult, and as a result, more expesive to not only get a system, but also find the controllers and games to use with it. If avaialbilty and cost are factors, you should consider play Suepr Mario Bros. using a different method.
+
+Second, the NES outputs its video signal using older analog formats, specifically Radio Frequencies or composite video. CRT TVs are able to handle these types of siganls best. CRT TVs are, like the NES itself, becoming more difficult to find. They also take up a lot of room and generate a lot of heat. This can be a big barrier to newer players.
+
+You can use a newer TV, but the options
+
+=== Nintendo Switch Online
+
+=== Unofficial methods
+
+==== Emualtion on PC
+
+==== Emulation on mobile phone
+
+==== MiSTer FPGA
+
 == How to play
+
+=== Story
+
+=== Controls
+
+=== General game mechanics
+
+==== Objectives
+
+==== Enemies
+
+===== Goomba
+
+===== Koopa Troopa
+
+===== Piranha Plant
+
+===== Koopa Paratroopa
+
+===== Fire Bar
+
+===== Podoboo
+
+===== Cheep Cheep
+
+===== Blooper
+
+===== Lakitu
+
+===== Spiny
+
+===== Hammer Brothers
+
+===== Buzzy Beetle
+
+===== Bowser
+
+==== Environment
+
+==== Items
+
+===== Coin
+
+===== Mushroom
+
+===== Fire Flower
+
+===== Star Man
+
+===== 1-up Mushroom
+
+==== Secrets
+
+===== Hidden block
+
+===== Open Pipe
+
+===== Beanstalk
+
+===== Warp Zone
+
+==== Glitches
+
+== Advanced strategies & techniques
 
 == Walkthrough
 
