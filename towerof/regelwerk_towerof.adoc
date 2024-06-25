@@ -17,84 +17,107 @@ Viele versuchten das Ziel zu erreichen und viele starben dabei. Dann erreichte e
 
 Nur eins, wie Menschen. Könnte jeder Farbe oder art Mensch.
 
-Jeder Mensch kann einen Helm, Zubehör, eine Waffe, und ein Werkzeug tragen. Er kann auch Geld und Gegenstände tragen, aber so viel wie man will. Aber wenn man stirbt, verliert man alle Rüstungen, Waffen, Werkzeuge, Gegenstände und 50% seiner Geld. Verliert man auch ein Herz. Wenn man keine Herzen mehr hat, stirbt man.
+Jeder Mensch kann einen Helm, eine Waffe, ein Werkzeug tragen, und ein Stuck Zubehör. Er kann auch Geld und Gegenstände tragen, aber so viel wie man will. Aber wenn man stirbt, verliert man alle Rüstungen, Waffen, Werkzeuge, Gegenstände und 50% seiner Geld. Verliert man auch ein Herz. Wenn man keine Herzen mehr hat, stirbt man.
+
+Dieser Helm bestimmt deine FLinkheit und Verteidigung. 
+Dieser Waffe bestimmt deine Angriffskraft. 
+
+== Gegenstände
+
+=== Rüstung
+
+
 
 == Kampfen
 
-=== Dran
-==== Angriff
-==== Verteidigung
-==== Row
-==== Gegenstand
+=== Runde
+==== Bewegungen
+* Angriff
+* Verteidigung
+* Tauschen
+* Gegenstand
 
 
 === Angriff
-[cols="1,1"]  
+[cols="1,1,1"]  
 |===
+|Vorne
+|Hinten
+|Beschreibung
+
+|1
 |1 
-|Schrecklich
+|Patzer
 
 |2-3
+|2-4
 |Chip
 
 |4-8
+|5-10
 |50%
 
 |9-13
+|11-15
 |75%
 
 |14-18
+|16-19
 |100%
 
-|14-18
-|100%
-
-|14-18
-|100%
 
 |19
+|20
 |125%
 
 |20
+|-
 |150%
 
 |=== 
 
-Element stark + 25%
+Element Verstärkung +1
 
 === Verteidigung
-[cols="1,1"]  
+[cols="1,1,1"]  
 |===
+|Vorne
+|Hinten
+|Beschreibung
+
+|1 
 |1 
 |Schrecklich
 
+|2-4
 |2-3
-|0
+|0%
 
+|5-10
 |4-8
 |50%
 
+|11-15
 |9-13
 |75%
 
-|14-18
-|100%
-
-|14-18
-|100%
-
+|16-19
 |14-18
 |100%
 
 |19
-|Counter 50%
+|19
+|Counter 50% (Vorne) +
+Counter 50% (Hinten)
 
 |20
-|Counter 100%
+|20 
+|Counter 100% (Vorne) +
+Counter 50% (Hinten)
 
 |===
 
-Element stark + 25%
+Element Verstärkung +1
 
 == Welt
 
