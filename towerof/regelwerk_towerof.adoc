@@ -1,10 +1,167 @@
+= The Tower of 
+:toc:
+:doctype: book
+
+== Geschichte
 Vor langer Zeit stand ein riesiger Turm. Niemand wusste, woher er kam. Aber wenn dieser Turm erschien, waren viele Monsters überall. Alle dachten, es hätte mit dem Turm zu tun, und Leute aus jeder Ecke der Welt kamen zu dem Turm, um ihn zu untersuchen.
 
-Vor dem Turm stand eine große Tafel aus schwarzem Stein. Die Schrift sagte:------
+Vor dem Turm stand eine große Tafel aus schwarzem Stein. Die Schrift sagte:
+
+"60 Stufen"
 
 Viele versuchten das Ziel zu erreichen und viele starben dabei. Dann erreichte endlich eine Gruppe von vier Abenteurern die letzte Kammer, besiegte die Finsternis, die da lebte, befreite die Leute der ganzen Welt, und fand einen kostbaren Schatz.
 
 100 Jahre vergingen und wieder stand der Turm da. 
 
+== Spieler 
 
+Nur eins, wie Menschen. Könnte jeder Farbe oder art Mensch.
+
+Jeder Mensch kann einen Helm, Zubehör, eine Waffe, und ein Werkzeug tragen. Er kann auch Geld und Gegenstände tragen, aber so viel wie man will. Aber wenn man stirbt, verliert man alle Rüstungen, Waffen, Werkzeuge, Gegenstände und 50% seiner Geld. Verliert man auch ein Herz. Wenn man keine Herzen mehr hat, stirbt man.
+
+== Kampfen
+
+=== Dran
+==== Angriff
+==== Verteidigung
+==== Row
+==== Gegenstand
+
+
+=== Angriff
+[cols="1,1"]  
+|===
+|1 
+|Schrecklich
+
+|2-3
+|Chip
+
+|4-8
+|50%
+
+|9-13
+|75%
+
+|14-18
+|100%
+
+|14-18
+|100%
+
+|14-18
+|100%
+
+|19
+|125%
+
+|20
+|150%
+
+|=== 
+
+Element stark + 25%
+
+=== Verteidigung
+[cols="1,1"]  
+|===
+|1 
+|Schrecklich
+
+|2-3
+|0
+
+|4-8
+|50%
+
+|9-13
+|75%
+
+|14-18
+|100%
+
+|14-18
+|100%
+
+|14-18
+|100%
+
+|19
+|Counter 50%
+
+|20
+|Counter 100%
+
+|===
+
+Element stark + 25%
+
+== Welt
+
+* Bergen
+** Städte
+*** ?
+** Figuren
+* Steppe
+** Städte
+*** Akilliat
+** Figuren
+* Wald
+** Städte
+*** Kwerkels 
+** Figuren
+* Tundra
+** Städte
+*** ?
+** Figuren
+* Sumpf
+** Städte
+*** 
+** Figuren
+* Hochebene 
+** Städte
+*** Skalla Lunat
+** Figuren
+
+
+== Waffen
+
+* Schwert
+* Bogen
+* Stab
+** Feuer
+** Strom
+** Eis
+
+
+== Monsters
+=== Marmelgellie
+==== Stats
+[cols="1,1"]  
+|===
+|KP
+|10
+
+|FH
+|3
+
+|===
+==== Bewegungen
+[cols="1,1"]  
+|===
+|Normale
+|1
+
+|Spezial
+|2
+
+|===
+
+== Turm
+
+* Labyrinth
+* Leeres Zimmer
+
+
+===
 
