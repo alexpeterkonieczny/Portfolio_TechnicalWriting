@@ -1,4 +1,4 @@
-= The Tower of 
+= The Tower of _
 :toc:
 :doctype: book
 
@@ -7,20 +7,235 @@ Vor langer Zeit stand ein riesiger Turm. Niemand wusste, woher er kam. Aber wenn
 
 Vor dem Turm stand eine große Tafel aus schwarzem Stein. Die Schrift sagte:
 
-"60 Stufen"
+"60 Stufen,
 
-Viele versuchten das Ziel zu erreichen und viele starben dabei. Dann erreichte endlich eine Gruppe von vier Abenteurern die letzte Kammer, besiegte die Finsternis, die da lebte, befreite die Leute der ganzen Welt, und fand einen kostbaren Schatz.
+Viele Herausforderungen,
+
+Besiegt den _"
+
+Viele versuchten das Ziel zu erreichen und viele starben dabei. Dann erreichte endlich eine Gruppe von vier Abenteurern die letzte Kammer, besiegte die Finsternis, die da lebte, befreite die Leute der ganzen Welt, und fand einen kostbaren Schatz. Der Turm verschwundet sich.
 
 100 Jahre vergingen und wieder stand der Turm da. 
 
+== Das Spiel
+Du bist ein Bewohnner in Roodward. Da gibt viele Geschicten über dem Turm des _, ein riesiger Turm der 100 Jahre vorher tauchtet auf. Helden erkundeten diesen Turm und besiegten den Monster im 60 Stock. Dann verschwand der Turm.
+
+Leider ist der Turm wieder in Roodward und er bringt mit viele Monsters und Katostrophen. Du kannst leben wie du will in der Land Rooward, aber das Chaos das von dem Turm kommt wird immer schlimmer und schlimmer. 
+
+Viele wollen im Turm rein. Viele Leute wollen sehen ob sie können der Land befreien. Anderen wollen die Schätze die da drin sind für sie selbst sammeln. Gibt auch sehr mächtige Waffen und Rüstungen die Leute wollen haben weil die denn stärker sein.
+
 == Spieler 
 
-Nur eins, wie Menschen. Könnte jeder Farbe oder art Mensch.
+Könnte jeder Farbe oder art Mensch oder Monster, aber alle haben die gleiche Fähigkeiten. -gibt auch kein XP. Was du kannst hängt an deine Rüstungen und Gegendstände.
 
-Jeder Mensch kann einen Helm, eine Waffe, ein Werkzeug tragen, und ein Stuck Zubehör. Er kann auch Geld und Gegenstände tragen, aber so viel wie man will. Aber wenn man stirbt, verliert man alle Rüstungen, Waffen, Werkzeuge, Gegenstände und 50% seiner Geld. Verliert man auch ein Herz. Wenn man keine Herzen mehr hat, stirbt man.
+Jeder Mensch kann einen Helm, eine Waffe, ein Werkzeug tragen, und ein Stuck Zubehör. Er kann auch Geld und Gegenstände tragen.. Aber wenn man stirbt, verliert man alle Rüstungen, Waffen, Werkzeuge, Gegenstände und 50% seiner Geld. Verliert man auch ein Herz. Wenn man keine Herzen mehr hat, stirbt man.
 
-Dieser Helm bestimmt deine FLinkheit und Verteidigung. 
-Dieser Waffe bestimmt deine Angriffskraft. 
+=== Spielerblatt
+
+[cols="1,5"]  
+|===
+|*Name*
+| 
+
+|*Beschreibung*
+| 
+
+|*Herzen*
+| ♥ ♥ ♥
+
+|*Geld*
+|
+
+|*Kekse Punkte*
+|
+ 
+  
+|===
+
+
+[cols="2,2,1,1,1,1,1,1,4"]  
+|===
+|*Rüstung Art*
+|*Rüstung Name*
+|*Ang*
+|*Ver* 
+|*Flk* 
+|*Wei*
+|*Int* 
+|*Cha* 
+|*Fahigkeiten*
+
+|Helm
+|
+|
+| 
+| 
+|
+| 
+|
+| 
+
+|Waffe
+|
+|
+| 
+| 
+|
+| 
+| 
+| 
+
+|Werrkzeug
+|
+|
+| 
+| 
+|
+| 
+| 
+| 
+
+|Zubehör
+|
+|
+| 
+| 
+|
+| 
+| 
+| 
+
+|*Gesamt*
+| -
+|
+| 
+| 
+|
+| 
+| 
+| 
+|===
+
+
+[cols="1,5,2,2"]  
+|===
+|*Property*
+|*Container Zahl*
+|*Wert (Container Zahl x 10) gesamt* 
+|*Wert jezt* 
+
+|KP
+|● ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○
+|
+|
+
+|MP
+|● ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○
+|
+|
+
+|===
+
+
+[cols="1,2,5"]  
+|===
+
+|*#*
+|*Gegendstand*
+|*Beschreibung*
+
+|{counter:stGegendstand}
+|
+|
+
+|{counter:stGegendstand}
+|
+|
+
+|{counter:stGegendstand}
+|
+|
+
+|{counter:stGegendstand}
+|
+|
+
+|{counter:stGegendstand}
+|
+|
+
+|{counter:stGegendstand}
+|
+|
+
+|{counter:stGegendstand}
+|
+|
+
+|{counter:stGegendstand}
+|
+|
+
+|{counter:stGegendstand}
+|
+|
+
+|{counter:stGegendstand}
+|
+|
+
+|{counter:stGegendstand}
+|
+|
+
+|{counter:stGegendstand}
+|
+|
+
+|{counter:stGegendstand}
+|
+|
+
+|{counter:stGegendstand}
+|
+|
+
+|{counter:stGegendstand}
+|
+|
+
+|{counter:stGegendstand}
+|
+|
+
+|{counter:stGegendstand}
+|
+|
+
+|{counter:stGegendstand}
+|
+|
+
+|{counter:stGegendstand}
+|
+|
+
+|{counter:stGegendstand}
+|
+|
+
+|===
+
+
+== Tiere und Freunde
+
+=== Entdecker
+
+
+=== Trager
+Kann 1 Helm, 1 Waffe, 1 Stuck Zuberhor, und 1 Werkzeug tragen, aber nicht benutzten.
+
+=== Angriffer
 
 == Gegenstände
 
@@ -165,7 +380,7 @@ Element Verstärkung +1
 |KP
 |10
 
-|FH
+|MP
 |3
 
 |===
@@ -180,10 +395,211 @@ Element Verstärkung +1
 
 |===
 
+== Spielgeschicte
+// . Intro +
+// Alle sind in eine Herberge. Gibt viel Larm. Alle waschen auf. 
+// .. Kämpfen
+// ...
+
+== Figuren
+
+[cols="1,6"]  
+|===
+
+|*Name*
+|*Beschreibung*
+
+|===
 == Turm
 
-* Labyrinth
-* Leeres Zimmer
+[cols="1,10"]  
+|===
+
+|*Stufe*
+|*Beschreibung*#
+
+|0
+|-
+
+|1
+|-
+
+|2
+|-
+
+|3
+|-
+
+|4
+|-
+
+|5
+|-
+
+|6
+|-
+
+|7
+|-
+
+|8
+|-
+
+|9
+|-
+
+|10
+|Boss
+
+|12
+|-
+
+|13
+|-
+
+|14
+|-
+
+|15
+|-
+
+|16
+|-
+
+|17
+|-
+
+|18
+|-
+
+|19
+|-
+
+|20
+|Boss
+
+|21
+|-
+
+|22
+|-
+
+|23
+|-
+
+|24
+|-
+
+|25
+|-
+
+|26
+|-
+
+|27
+|-
+
+|28
+|-
+
+|29
+|-
+|30
+|-
+
+|31
+|-
+
+|32
+|-
+
+|33
+|-
+
+|34
+|-
+
+|35
+|-
+
+|36
+|-
+
+|37
+|-
+
+|38
+|-
+
+|39
+|-
+|0
+|-
+
+|41
+|-
+
+|42
+|-
+
+|43
+|-
+
+|44
+|-
+
+|45
+|-
+
+|46
+|-
+
+|47
+|-
+
+|48
+|-
+
+|49
+|-
+
+|50
+|Boss 
+
+|51
+|-
+
+|52
+|-
+
+|53
+|-
+
+|54
+|-
+
+|55
+|-
+
+|56
+|-
+
+|57
+|-
+
+|58
+|-
+
+|59
+|-
+
+|60
+|Letzte Boss
+
+|===
+
+// * Labyrinth
+// * Leeres Zimmer
 
 
 ===
