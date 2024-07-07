@@ -32,13 +32,19 @@ Jeder Mensch kann einen Helm, eine Waffe, ein Werkzeug tragen, und ein Stuck Zub
 
 === Spielerblatt
 
-[cols="1,5"]  
+[cols="1,6"]  
 |===
 |*Name*
-| 
+|
 
 |*Beschreibung*
-| 
+| {nbsp} + 
+ {nbsp} + 
+ {nbsp} +
+ {nbsp} + 
+ {nbsp} +
+ {nbsp} +
+ 
 
 |*Herzen*
 | ♥ ♥ ♥
@@ -46,8 +52,16 @@ Jeder Mensch kann einen Helm, eine Waffe, ein Werkzeug tragen, und ein Stuck Zub
 |*Geld*
 |
 
-|*Kekse Punkte*
+|*Magie Kristall*
 |
+
+|*Beziehungen*
+| {nbsp} +
+ {nbsp} + 
+ {nbsp} +
+ {nbsp} + 
+ {nbsp} +
+ {nbsp} +
  
   
 |===
@@ -245,7 +259,216 @@ Kann 1 Helm, 1 Waffe, 1 Stuck Zuberhor, und 1 Werkzeug tragen, aber nicht benutz
 
 == Gegenstände
 
-=== Rüstung
+=== Rüstungen
+[cols="2,2,1,1,1,1,1,1,1,3"]  
+|===
+|*Rüstung Art*
+|*Rüstung Name*
+|*Ang*
+|*Ver* 
+|*Flk* 
+|*Wei*
+|*Int* 
+|*Cha* 
+|*Ele*
+|*Fahigkeiten*
+
+
+|Schwert
+|Reise Schwert*
+|+3
+|
+|
+|
+|
+|
+|
+|
+
+
+|Schwert
+|Zweihander*
+|+5
+|
+|-2
+|
+|
+|
+|
+|
+
+
+|Bogen
+|Einfacher Bogen*
+|+2
+|
+|
+|
+|
+|
+|
+| 
+
+
+|Stab
+|Alter Stab*
+|+1
+|
+|
+|+1
+|
+|
+|
+| - Heilung (+1 +Wei)
+
+
+|Stab
+|Feuer Stab*
+|+1
+|
+|
+|+1
+|
+|
+|
+| - Feuerball (+1 +Wei)
+
+
+|Helm
+|Zylinder*
+|
+|
+|
+|
+|+1
+|+1
+|
+|
+
+|Helm
+|Baseballcap*
+|
+|
+|+1
+|
+|+1
+|(+1)
+|
+|
+
+|Helm
+|Stohhut*
+|
+|+1
+|
+|+1
+|
+|
+|
+|
+
+|Helm
+|Berett*
+|
+|
+|
+|
+|+1
+|+1
+|
+|
+
+|Helm
+|Mütze
+|
+|
+|
+|+1
+|-1
+|+1
+|
+|
+
+|Helm
+|Wizard Hut*
+|
+|
+|
+|+1
+|+1
+|
+|
+|
+
+|Helm
+|Leder Helm*
+|
+|+2
+|
+|
+|
+|
+|
+|
+
+|Helm
+|Eisen Helm*
+|
+|+3
+|-1
+|
+|
+|
+|
+|
+
+|Helm
+|Glockenhut
+|
+|+1
+|
+|
+|
+|+3
+|
+|
+
+|Zubehör
+|Armbanduhr
+|
+|
+|
+|+1
+|+1
+|
+|
+|
+
+|Zubehör
+|Spike Armband
+|+3
+|-1
+|
+|
+|
+|
+|
+|
+
+|Zubehör
+|Feuer Ring
+|
+|
+|
+|+2
+|
+|
+|
+|
+
+
+|===
+
 
 
 
@@ -258,7 +481,7 @@ Kann 1 Helm, 1 Waffe, 1 Stuck Zuberhor, und 1 Werkzeug tragen, aber nicht benutz
 * Tauschen
 * Fliehen
 * Gegenstand
-
+* Sonstiges
 
 === Angriff
 [cols="1,1,1"]  
@@ -342,6 +565,8 @@ Counter 50% (Hinten)
 Element Verstärkung +1
 
 === Fliehen
+Wenn amn will fliehen, muss man die Unterschied zwischen seine Flinkheit und die Flinkheit des Gegners rechnen. Dann roll man ein d20, und die Summe zwischen die beide ist die Zahl. Zum Beispiel, wenn man Vorne ist im Kampf, der Gegner hat 5 Flinkheit und man hat 3, ist die Unterschied dann -2. Man rollt 18, dann mit -2 is das 16. Man kann in der Tabelle sehen dass er erfolgreich ist.
+
 [cols="1,1,1,1"]  
 |===
 |Vorne
@@ -417,6 +642,9 @@ Einfaches lila Schleim. Sie hopfen wie eine Hase und die alle haben nur ein Auge
 |KP
 |5
 
+|Vrt
+|0
+
 |Flk
 |1
 
@@ -446,6 +674,9 @@ Sieht wie ein Wombat aus, aber mit einer Schwein Nase. 150 cm lang.  Zähne sehe
 |===
 |KP
 |7
+
+|Vrt
+|0
 
 |Flk
 |5
@@ -480,6 +711,9 @@ Alle sind in einer Herberge. Gibt viel Lärm. Alle wachen auf.
 
 |Pauline Herring
 |Besitzer der Herberge. Hat viele Herausforderungen 
+
+|Grazer
+|Ein Bär mit Kinder. Ist stark und schlau. Liebt Lachs. Kann alle brav machen wenn sie nah ist.
 
 |===
 == Turm
