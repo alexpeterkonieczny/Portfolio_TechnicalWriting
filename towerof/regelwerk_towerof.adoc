@@ -71,7 +71,7 @@ Jeder Mensch kann einen Helm, eine Waffe, ein Werkzeug tragen, und ein Stuck Zub
 |===
 |*Rüstung Art*
 |*Rüstung Name*
-|*Ang*
+|*Stk*
 |*Ver* 
 |*Flk* 
 |*Wei*
@@ -260,21 +260,23 @@ Kann 1 Helm, 1 Waffe, 1 Stuck Zuberhor, und 1 Werkzeug tragen, aber nicht benutz
 == Gegenstände
 
 === Rüstungen
+
+==== Waffen
 [cols="2,2,1,1,1,1,1,1,1,3"]  
 |===
 |*Rüstung Art*
 |*Rüstung Name*
-|*Ang*
+|*Str*
 |*Ver* 
 |*Flk* 
 |*Wei*
 |*Int* 
 |*Cha* 
 |*Ele*
-|*Fahigkeiten*
+|*Fähigkeiten*
 
 
-|Schwert
+|Waffe
 |Reise Schwert*
 |+3
 |
@@ -286,7 +288,7 @@ Kann 1 Helm, 1 Waffe, 1 Stuck Zuberhor, und 1 Werkzeug tragen, aber nicht benutz
 |
 
 
-|Schwert
+|Waffe
 |Zweihander*
 |+5
 |
@@ -298,7 +300,19 @@ Kann 1 Helm, 1 Waffe, 1 Stuck Zuberhor, und 1 Werkzeug tragen, aber nicht benutz
 |
 
 
-|Bogen
+|Waffe
+|Axt*
+|+5
+|-1
+|-1
+|
+|
+|
+|
+|
+
+
+|Waffe
 |Einfacher Bogen*
 |+2
 |
@@ -310,7 +324,7 @@ Kann 1 Helm, 1 Waffe, 1 Stuck Zuberhor, und 1 Werkzeug tragen, aber nicht benutz
 | 
 
 
-|Stab
+|Waffe
 |Alter Stab*
 |+1
 |
@@ -322,7 +336,7 @@ Kann 1 Helm, 1 Waffe, 1 Stuck Zuberhor, und 1 Werkzeug tragen, aber nicht benutz
 | - Heilung (+1 +Wei)
 
 
-|Stab
+|Waffe
 |Feuer Stab*
 |+1
 |
@@ -333,6 +347,81 @@ Kann 1 Helm, 1 Waffe, 1 Stuck Zuberhor, und 1 Werkzeug tragen, aber nicht benutz
 |
 | - Feuerball (+1 +Wei)
 
+
+|Waffe
+|Wasser Stab*
+|+1
+|
+|
+|+1
+|
+|
+|
+| - Aquaknarre (+1 +Wei)
+
+|Waffe
+|Bluten Stab*
+|+1
+|
+|
+|+1
+|
+|
+|
+| - Bluten Strahl (+1 +Wei)
+
+|Waffe
+|Lagerfeuer Stab
+|+1
+|
+|
+|+1
+|
+|
+|
+| - Feuerball (+1 +Wei) +
+ - Flammenwerfer (+3 +Wei; multi)
+
+
+|Waffe
+|Blasen Stab
+|+1
+|
+|
+|+1
+|
+|
+|
+| - Aquaknarre (+1 +Wei) +
+ - Blasenwerfer (+5 +Wei)
+
+|Waffe
+|Blumen Stab
+|+1
+|
+|
+|+1
+|
+|
+|
+| - Bluten Strahl (+1 +Wei) +
+ - Planzenfang (+2 +Wei; 25% checken) Runde verloren
+|===
+
+==== Helme 
+
+[cols="2,2,1,1,1,1,1,1,1,3"]  
+|===
+|*Rüstung Art*
+|*Rüstung Name*
+|*Str*
+|*Ver* 
+|*Flk* 
+|*Wei*
+|*Int* 
+|*Cha* 
+|*Ele*
+|*Fähigkeiten*
 
 |Helm
 |Zylinder*
@@ -368,7 +457,7 @@ Kann 1 Helm, 1 Waffe, 1 Stuck Zuberhor, und 1 Werkzeug tragen, aber nicht benutz
 |
 
 |Helm
-|Berett*
+|Baskenmütze*
 |
 |
 |
@@ -379,7 +468,7 @@ Kann 1 Helm, 1 Waffe, 1 Stuck Zuberhor, und 1 Werkzeug tragen, aber nicht benutz
 |
 
 |Helm
-|Mütze
+|Mütze*
 |
 |
 |
@@ -412,7 +501,7 @@ Kann 1 Helm, 1 Waffe, 1 Stuck Zuberhor, und 1 Werkzeug tragen, aber nicht benutz
 |
 
 |Helm
-|Eisen Helm*
+|Eisen Helm
 |
 |+3
 |-1
@@ -433,6 +522,67 @@ Kann 1 Helm, 1 Waffe, 1 Stuck Zuberhor, und 1 Werkzeug tragen, aber nicht benutz
 |
 |
 
+|===
+
+==== Zubehör
+
+[cols="2,2,1,1,1,1,1,1,1,3"]  
+|===
+|*Rüstung Art*
+|*Rüstung Name*
+|*Str*
+|*Ver* 
+|*Flk* 
+|*Wei*
+|*Int* 
+|*Cha* 
+|*Ele*
+|*Fähigkeiten*
+
+|Zubehör
+|Leder Handschuh
+|+1
+|+1
+|
+|
+|
+|
+|
+|
+
+|Zubehör
+|Leder Schuhe
+|
+|
+|+2
+|
+|
+|
+|
+|
+
+|Zubehör
+|Absatzschuhe
+|
+|
+|-2
+|
+|
+|+4
+|
+|
+
+|Zubehör
+|Dress Schuhe
+|
+|
+|-2
+|
+|
+|+4
+|
+|
+
 |Zubehör
 |Armbanduhr
 |
@@ -440,6 +590,17 @@ Kann 1 Helm, 1 Waffe, 1 Stuck Zuberhor, und 1 Werkzeug tragen, aber nicht benutz
 |
 |+1
 |+1
+|
+|
+|
+
+|Zubehör
+|Stärkung Amulett
+|+2
+|
+|
+|
+|
 |
 |
 |
@@ -464,8 +625,204 @@ Kann 1 Helm, 1 Waffe, 1 Stuck Zuberhor, und 1 Werkzeug tragen, aber nicht benutz
 |
 |
 |
+|Feuer Resistenz +2
+
+|Zubehör
+|Feuer Armband
+|
+|
+|
+|+2
+|
+|
+|
+|Angriff hat Feuer +2
+
+|Zubehör
+|Wasser Ring
+|
+|
+|
+|+2
+|
+|
+|
+|Wasser Resistenz +2
+
+|Zubehör
+|Wasser Armband
+|
+|
+|
+|+2
+|
+|
+|
+|Angriff hat Wasser +2
+
+|Zubehör
+|Blatt Ring
+|
+|
+|
+|+2
+|
+|
+|
+|Blatt Resistenz +2
+
+|Zubehör
+|Blatt Armband
+|
+|
+|
+|+2
+|
+|
+|
+|Angriff hat Blatt +2
+
+|Zubehör
+|Brillen
+|
+|
+|
+|
+|+1
+|(+1)
+|
+|Sichtbarkeit+
+
+|Zubehör
+|Rollschuhe
+|
+|
+|+3
+|
+|
+|+1
+|
 |
 
+|===
+
+==== Werkzeuge
+
+[cols="2,2,1,1,1,1,1,1,1,3"]  
+|===
+|*Rüstung Art*
+|*Rüstung Name*
+|*Str*
+|*Ver* 
+|*Flk* 
+|*Wei*
+|*Int* 
+|*Cha* 
+|*Ele*
+|*Fähigkeiten*
+
+
+|Werkzeug
+|Hammer
+|+2
+|
+|
+|
+|
+|
+|
+|Bauen
+
+|Werkzeug
+|Gießkanne 
+|
+|
+|
+|
+|
+|
+|
+|Planzen ernähren
+
+|Werkzeug
+|Verzauberter Topf
+|
+|
+|
+|
+|
+|
+|
+|Kochen
+
+|Werkzeug
+|Kompass 1
+|
+|
+|
+|
+|
+|
+|
+|Gegner finden
+
+|Werkzeug
+|Kompass 2
+|
+|
+|
+|
+|
+|
+|
+|Schätze finden
+
+|Werkzeug
+|Kompass 3
+|
+|
+|
+|
+|
+|
+|
+|Geheimnis finden
+
+|Werkzeug
+|Lampe 
+|
+|
+|
+|+1
+|+1
+|
+|
+|Licht
+
+|Werkzeug
+|Rucksack
+|
+|
+|-1 /10 stk
+|
+|
+|
+|
+|Tragen (+1 Rüstung / 5 Stk)
+
+
+|===
+
+==== Gegenstände
+
+[cols="1,6"]  
+|===
+|*Gegenstand Name*
+|*Beschreibung*
+
+
+|Karotte
+|Tiere lieben die. 
 
 |===
 
@@ -621,16 +978,6 @@ Wenn amn will fliehen, muss man die Unterschied zwischen seine Flinkheit und die
 ** Figuren
 
 
-== Waffen
-
-* Schwert
-* Bogen
-* Stab
-** Feuer
-** Strom
-** Eis
-
-
 == Monsters
 
 === Marmelgellie
@@ -709,11 +1056,29 @@ Alle sind in einer Herberge. Gibt viel Lärm. Alle wachen auf.
 |*Name*
 |*Beschreibung*
 
-|Pauline Herring
-|Besitzer der Herberge. Hat viele Herausforderungen 
+|Ericka 
+|Leiter des Luftschiff.
+
+|Ericka 
+|Leiter des Luftschiff.
+
+|Pauline 
+|Besitzer der Herberge. Hat viele Herausforderungen.
+
+|Bernd
+|Besitzer des Zubehör Laden. 
+
+|Evan 
+|Besitzer der Helm Laden. 
+
+|Anita
+|Besitzer der Waffe Laden. 
+
+|Morgan 
+|Besitzer der Werkzeug Laden. 
 
 |Grazer
-|Ein Bär mit Kinder. Ist stark und schlau. Liebt Lachs. Kann alle brav machen wenn sie nah ist.
+|Eine Bären mit Kindern. Ist groß, stark und schlau. Liebt Lachs. Kann alle brav machen, wenn sie nah ist.
 
 |===
 == Turm
