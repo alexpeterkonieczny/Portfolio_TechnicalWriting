@@ -9,13 +9,13 @@
 Super Mario Bros. is one of the most re-released video games of all time. Since there are countless ways to play the game, the decision about how to play come from balancing comfort, accessibility, and authenticity. The following are just a few of the methods you can choose from when playing Super Mario Bros.  
 
 === Nintendo Entertainment System / Nintendo Family Computer
-Depending on where you live, Nintendo's first home console with interchangable games came in either the form of the Nintendo Family Computer (Famicom), if you lived in Japan, or the Nintendo Entertainment System (NES) if you lived in North America or Europe. Despite a few non-essential differences, the hardware in these systems is the same. The developers at Nintendo designed Super Mario Bros. to be played on these machines, and if you can manage to get an NES or Famicom, it can be the best way to play, though only in specific situations. Since this guide is written in English, the following instructions will specifically refer to using an NES, and the challenges that come with that version of the console.
+Depending on where you live, Nintendo's first home console with interchangeable games came in either the form of the Nintendo Family Computer (Famicom), if you lived in Japan, or the Nintendo Entertainment System (NES) if you lived in North America or Europe. Despite a few non-essential differences, the hardware in these systems is the same. The developers at Nintendo designed Super Mario Bros. to be played on these machines, and if you can manage to get an NES or Famicom, it can be the best way to play, though only in specific situations. Since this guide is written in English, the following instructions will specifically refer to using an NES, and the challenges that come with that version of the console.
 
-First, the NES is around 40-years-old. Though Nintendo sold many of these systems, if is becoming more difficult, and as a result, more expesive to not only get a system, but also find the controllers and games to use with it. If avaialbilty and cost are factors, you should consider play Suepr Mario Bros. using a different method.
+First, the NES is around 40-years-old. Though Nintendo sold many of these systems, if is becoming more difficult, and as a result, more expensive to not only get a system, but also find the controllers and games to use with it. If availability and cost are factors, you should consider play Super Mario Bros. using a different method.
 
-Second, the NES outputs its video signal using older analog formats, specifically Radio Frequencies or composite video. CRT TVs are able to handle these types of siganls best. CRT TVs are, like the NES itself, becoming more difficult to find. They also take up a lot of room and generate a lot of heat. This can be a big barrier to newer players.
+Second, the NES outputs its video signal using older analog formats, specifically Radio Frequencies or composite video. CRT TVs are able to handle these types of signals best. CRT TVs are, like the NES itself, becoming more difficult to find. They also take up a lot of room and generate a lot of heat. This can be a big barrier to newer players.
 
-You can use a newer TV, but the options
+You can use a newer TV, but the options available to you are limited. Simple adapters that convert composite signals to HDMI introduce tons of lag since the television needs to work to upscale the raw image sent to it. This is fixed with a scaler like the Retro TINK 2x.
 
 === Nintendo Switch Online
 
@@ -31,7 +31,36 @@ You can use a newer TV, but the options
 
 === Story
 
+There was once a magical land known as the Mushroom Kingdom. The kingdom was ruled by a kind and benevolent leader, Princess Peach. One day, Bowser, an monstrous beast, attacked the Mushroom Kingdom with him army of Koopas, Goombas, and other minions. Using his magic he turned all the Mushroom people to stone and captured Princess Peach.
+
+It is now up to Mario and Luigi to travel through the Mushroom Kingdom, saving the Mushroom people, liberating their homes, and finally saving Princess Peach.
+
 === Controls
+
+|===
+|Shortcut |Purpose
+
+|kbd:[Control pad left]
+|Move left
+
+|kbd:[Control pad right]
+|Move right
+
+|kbd:[Control pad down]
+|Crouch 
+
+|kbd:[A button]
+|Jump
+
+|kbd:[B button]
+|Run
+
+|kbd:[Start button]
+|Start game / pause game]
+
+|kbd:[Select button]
+|Toggle menu selection
+|===
 
 === General game mechanics
 
