@@ -1,6 +1,7 @@
 = A Guide to Mastering Super Mario Bros.
 - Alex Konieczny
 :toc: auto
+:experimental:
 
 == Introduction
 
@@ -38,13 +39,16 @@ It is now up to Mario and Luigi to travel through the Mushroom Kingdom, saving t
 === Controls
 
 |===
-|Shortcut |Purpose
+|Input |Action
 
 |kbd:[Control pad left]
 |Move left
 
 |kbd:[Control pad right]
 |Move right
+
+|kbd:[Control pad up]
+|-
 
 |kbd:[Control pad down]
 |Crouch 
@@ -56,13 +60,35 @@ It is now up to Mario and Luigi to travel through the Mushroom Kingdom, saving t
 |Run
 
 |kbd:[Start button]
-|Start game / pause game]
+|Start game / pause game / unpause game]
 
 |kbd:[Select button]
 |Toggle menu selection
 |===
 
+==== Controller diagram
+
 === General game mechanics
+
+==== Walking and running
+
+When taking control of Mario, the first thing you need to do is get him moving. To do this, press the Control pad to the left and right to get Mario to walk left and right respectively. When you do this, you will learn that Mario doesn't move at a constant speed. His walking speed will take a moment to reach its max speed. When letting go of the control pad, Mario will also slow down before stopping, which is affected by what his speed was when you let go of the pad. 
+
+You can reduce Mario's speed even faster by pressing the control pad in the opposite direction Mario is moving in. This will cause Mario to skid and change the direction he is facing, which if timed right can force Mario to stop very quickly. 
+
+
+
+==== Jumping
+
+If you press the A button, Mario jumps. A regular Mario, from a standing position, Mario can jump 4 units high. By just barely tapping the A button, you can get Mario to jump just 1 unit high. 
+
+When running, Mario jumps even higher, 5 units high.
+
+You can control Mario while in the air
+
+==== Stomping
+
+
 
 ==== Objectives
 
@@ -99,6 +125,9 @@ It is now up to Mario and Luigi to travel through the Mushroom Kingdom, saving t
 ==== Items
 
 ===== Coin
+Coins are the currency of the Mushroom Kingdom. Mario can collect coins just by making contact with them. These coins are scattered all throughout the kingdom in a variety of different places. Every time Mario collects 100 coins, he gets an extra Mario. When this happens, Mario's coin count goes back to zero and you can then work on collecting another 100 for another extra life. A coin gets you 200 points.
+
+The most common place to find coins are just encountering them throughout the various environments Mario needs to traverse. YOu can also find coins in Question Mark blocks, some normal blocks holding a single coin, some hidden blocks holding a coin, and there are even some blocks that contain many coins. The faster Mario can hit these blocks the more coins he can collect.
 
 ===== Mushroom
 
